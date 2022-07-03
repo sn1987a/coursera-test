@@ -18,10 +18,9 @@ section {
 
 .dish-border {
     position: relative;
-    padding-top: 50px;
+    padding: 50px 10px 10px;
     border: 1px solid black;
     margin: 10px;
-    padding-bottom: 10px;
     background-color: lightgray;
 }
 
@@ -30,13 +29,8 @@ section {
     top: 0;
     right: 0;
     border: 1px solid black;
-    padding: 3px 20px 3px 20px;
+    padding: 3px 20px 3px;
     margin: 0;
-}
-
-.dish-content {
-    width: 95%;
-    margin: auto;
 }
 
 .title-type-1 {
